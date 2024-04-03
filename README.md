@@ -1,3 +1,7 @@
+### ~~BetterChunkLoader~~ (abandoned)
+
+This project has been droped in favor of it's remake! Check at: https://github.com/EverNife/FinalChunkLoader
+
 ### BetterChunkLoader
 This is a plugin for Cauldron-like MC1.7.10 servers that allows players to make chunk loaders.
 
